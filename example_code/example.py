@@ -1,7 +1,7 @@
 import os
 
 
-class example:
+class Example:
 
     @staticmethod
     def get_local_path(self):
